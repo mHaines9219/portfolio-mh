@@ -1,0 +1,12 @@
+/* here is where you put
+element selectors
+media queries
+global psuedo selectors */
+
+:root {
+  --bg-color: red;
+}
+h1 {
+  font-size: 2rem;
+  color: var(--bg-color);
+}

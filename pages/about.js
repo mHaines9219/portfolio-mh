@@ -12,7 +12,7 @@ export default function About() {
       <img src="alien.png" alt="meirl"></img>
 
       {/* /dynamic css with js values injected from state  */}
-      
+
       <style jsx>{`
         .fontSize {
           font-size: ${fontSize}rem;
@@ -31,3 +31,6 @@ export default function About() {
     </>
   );
 }
+
+
+//https://space-book-5ba0b58adc3c.herokuapp.com/profiles spacebook

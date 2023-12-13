@@ -3,10 +3,22 @@ element selectors
 media queries
 global psuedo selectors */
 
+@import url('https://fonts.googleapis.com/css2?family=Rethink+Sans&display=swap');
+
 :root {
-  --bg-color: red;
+  --bg-color: darkgray;
+  --h1-color: rgb(96, 0, 96);
+}
+
+* {
+  font-family: 'Rethink Sans', sans-serif;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-color);
 }
 h1 {
   font-size: 2rem;
-  color: var(--bg-color);
+  color: var(--h1-color);
 }

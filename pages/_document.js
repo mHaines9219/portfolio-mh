@@ -9,7 +9,8 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
-        <footer>Footer goes here</footer>
+
+        {/* <footer>Footer goes here</footer> */}
       </body>
     </Html>
   );

@@ -6,8 +6,7 @@ export default function Navbar() {
   return (
     <>
       <nav>
-        <Link href="/">Home</Link> |{/*<Link href="/about">About</Link> */}|{' '}
-        <Link href="/resume">My Resume</Link>
+        <Link href="/">Home</Link> | <Link href="/resume">My Resume</Link>
       </nav>
     </>
   );

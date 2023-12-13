@@ -17,7 +17,7 @@ export default function Home() {
       <h1>Matthew Haines</h1>I am a versatile Full Stack Software Engineer with
       a background in Graphic Design and Audio. My entrepreneurial ventures,
       particularly in client-facing businesses, have cultivated my creative
-      problem-solving skills. I'm eager to contribute my unique skill set to
+      problem-solving skills. I am eager to contribute my unique skill set to
       drive innovation and success within your software engineering team.
     </>
   );
